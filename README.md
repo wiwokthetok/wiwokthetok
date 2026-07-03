@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! 👋 I'm wiwokthetok
 
-<!--
-**wiwokthetok/wiwokthetok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang token enthusiast yang tertarik dengan dunia crypto dan blockchain. Belajar sambil eksplorasi.
 
-Here are some ideas to get you started:
+## 💰 Interests
+- Blockchain technology
+- Crypto tokens
+- Web3 development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+Memahami ekosistem blockchain dari dasar.
+
+Terima kasih sudah mampir! 🪙
