@@ -10,4 +10,5 @@ Seorang token enthusiast yang tertarik dengan dunia crypto dan blockchain. Belaj
 ## 🚀 Goals
 Memahami ekosistem blockchain dari dasar.
 
+## 📊 GitHub Stats
 Terima kasih sudah mampir! 🪙
